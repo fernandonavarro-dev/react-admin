@@ -25,10 +25,10 @@
       "id": "2ClSmun"
     },
     {
-      "title": "Post Five",
-      "body": "This is the post body",
-      "publishedAt": "10-10-2020",
-      "id": "7DMgDIR"
+      "title": "Post what?",
+      "body": "this is the first of its kind",
+      "publishedAt": "2020-10-10",
+      "id": "znDhGnJ"
     }
   ],
   "users": [
@@ -36,6 +36,11 @@
       "id": "1",
       "name": "John Doe",
       "email": "john@email.com"
+    },
+    {
+      "name": "Johnny b good",
+      "email": "jbg@email.com",
+      "id": "YazFEK6"
     }
   ]
 }
